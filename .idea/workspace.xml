@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42627661-0167-4e2b-b68f-03a92225e5a6" name="Changes" comment="init test" />
+    <list default="true" id="42627661-0167-4e2b-b68f-03a92225e5a6" name="Changes" comment="init new branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,25 +18,38 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="sdgf" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "polinasupron"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;polinasupron&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/polinasupron/1.git",
-    "accountId": "ebe8cf4f-2f4d-4547-a802-da6c3057c4b3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/polinasupron/1.git&quot;,
+    &quot;accountId&quot;: &quot;ebe8cf4f-2f4d-4547-a802-da6c3057c4b3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
@@ -52,7 +65,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "lr13",
+    "git-widget-placeholder": "test",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/admin/IdeaProjects/untitled1",
@@ -78,7 +91,47 @@
       <option name="project" value="LOCAL" />
       <updated>1744200386186</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init test">
+      <option name="closed" value="true" />
+      <created>1744200663853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744200663853</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init test">
+      <option name="closed" value="true" />
+      <created>1744200699690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744200699690</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init new branch">
+      <option name="closed" value="true" />
+      <created>1744200769903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744200769903</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init new branch">
+      <option name="closed" value="true" />
+      <created>1744200863153</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744200863153</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init new branch">
+      <option name="closed" value="true" />
+      <created>1744200897873</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744200897873</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +139,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init test" />
-    <option name="LAST_COMMIT_MESSAGE" value="init test" />
+    <MESSAGE value="init new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="init new branch" />
   </component>
 </project>

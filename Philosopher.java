@@ -15,9 +15,6 @@ class Philosopher implements Runnable {
     private int eatingCount = 0;
     private static final Object eatingMonitor = new Object();
 
-
-
-
     public Philosopher(int id, Lock leftFork, Lock rightFork) {
         this.id = id;
         this.leftFork = leftFork;
