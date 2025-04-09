@@ -18,8 +18,6 @@ class Philosopher implements Runnable {
 
 
 
-
-
     public Philosopher(int id, Lock leftFork, Lock rightFork) {
         this.id = id;
         this.leftFork = leftFork;
