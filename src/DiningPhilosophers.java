@@ -11,7 +11,8 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class DiningPhilosophers {
-    
+
+
     public static void main(String[] args) throws InterruptedException {
         int NUM_PHILOSOPHERS = 5;
         ExecutorService executorService = Executors.newFixedThreadPool(5);
