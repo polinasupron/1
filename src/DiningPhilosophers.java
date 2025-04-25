@@ -18,6 +18,7 @@ public class DiningPhilosophers {
         Lock[] forks = new ReentrantLock[5];
         Philosopher[] philosophers = new Philosopher[5];
 
+        
         for(int i = 0; i < 5; ++i) {
             forks[i] = new ReentrantLock();
         }
