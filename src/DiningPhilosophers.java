@@ -11,6 +11,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class DiningPhilosophers {
+
     
     public static void main(String[] args) throws InterruptedException {
         int NUM_PHILOSOPHERS = 5;
@@ -18,7 +19,7 @@ public class DiningPhilosophers {
         Lock[] forks = new ReentrantLock[5];
         Philosopher[] philosophers = new Philosopher[5];
 
-        
+
         for(int i = 0; i < 5; ++i) {
             forks[i] = new ReentrantLock();
         }
