@@ -23,7 +23,8 @@ public class DiningPhilosophers {
             forks[i] = new ReentrantLock();
         }
 
-        
+
+
         for(int i = 0; i < 5; ++i) {
             Lock leftFork = forks[i];
                 Lock rightFork = forks[(i + 1) % 5];
