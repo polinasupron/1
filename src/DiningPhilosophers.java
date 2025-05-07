@@ -16,6 +16,8 @@ public class DiningPhilosophers {
 
 
 
+
+
     public static void main(String[] args) throws InterruptedException {
         int NUM_PHILOSOPHERS = 5;
         ExecutorService executorService = Executors.newFixedThreadPool(5);
